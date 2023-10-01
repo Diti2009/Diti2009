@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diti2009
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Scratch and Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through my email- ditipriyab2009@gmail.com
 
 <!---

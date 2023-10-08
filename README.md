@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Diti2009
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Scratch and Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Hacktoberfest
 - 📫 How to reach me through my email- ditipriyab2009@gmail.com
+- I am paricipating on Hacktoberfest
 
 <!---
 Diti2009/Diti2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
